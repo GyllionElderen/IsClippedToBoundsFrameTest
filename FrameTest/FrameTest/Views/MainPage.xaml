@@ -6,7 +6,8 @@
 
     <Frame BackgroundColor="Blue" 
            HorizontalOptions="CenterAndExpand" 
-           VerticalOptions="CenterAndExpand">
+           VerticalOptions="CenterAndExpand"
+           IsClippedToBounds="False">
         <BoxView x:Name="YellowElement" BackgroundColor="Yellow"/>
     </Frame>
 
